@@ -1,4 +1,4 @@
-# 992. Subarrays with K Different Integers
+# 992. [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
 
 Given an array `A` of positive integers, call a (contiguous, not necessarily distinct) subarray of `A` good if the number of different integers in that subarray is exactly `K`.
 
