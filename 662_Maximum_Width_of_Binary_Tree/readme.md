@@ -72,5 +72,5 @@ width = end - start + 1
 子结点与父结点编号之间的关系:
 ```
 left = root * 2
-right = root * 2 + `
+right = root * 2 + 1`
 ```
